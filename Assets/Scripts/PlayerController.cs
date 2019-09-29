@@ -21,8 +21,8 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         //Atur inputan
-        float moveX = Input.GetAxis("Horizontal");
-        float moveY = Input.GetAxis("Vertical");
+        float moveX = Input.acceleration.x;
+        float moveY = Input.acceleration.y;
 
         //menghubungkan inputan dengan fungsi gerak
         Vector3 posisi = new Vector3(moveX, 0f, moveY);

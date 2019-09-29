@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Navigasi : MonoBehaviour
 {
-   void Retry()
+   public void Retry()
    {
        Application.LoadLevel(Application.loadedLevel);
    }
 
-   void Keluar()
+   public void Keluar()
    {
        Application.Quit();
    }
