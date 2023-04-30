@@ -12,7 +12,5 @@ Game sederhana yang mudah dipahami dan dimainkan
 Membantu pengguna mempelajari dasar-dasar pengembangan game di Unity
 Potensial untuk digunakan sebagai dasar untuk membuat game augmented reality (AR) di Unity
 
-# Cara Bermain
-Gunakan Smartphone pada perangkat Anda untuk mengatur keseimbangan bola dan mencegah bolanya jatuh.
 
 Semoga deskripsi ini membantu!
